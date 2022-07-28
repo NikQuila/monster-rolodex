@@ -33,7 +33,7 @@ const App = () => {
     <div className="App">
       <h1 className="app-title"> Monster Rolodex</h1>
       <SearchBox
-        className="monster-search-box"
+        className="monster-search-boxer"
         placeholder="Search Monster"
         onChange={onSearchChange}
       />
